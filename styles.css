@@ -1,0 +1,108 @@
+body {
+
+  line-height: 1.5;
+  margin: auto;
+  width: 60%;
+  padding-bottom: 100px;
+
+  background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700344323.jpg);
+  background-size: cover;
+}
+
+header {
+  padding-top: 10%;
+
+}
+
+section { 
+  font-weight: bold;
+  float: none;
+
+}
+
+article {
+  margin: 25px 0;
+}
+
+h2{
+  padding-bottom: 25px;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 16;
+  color:green;
+}
+
+span {
+  font-size: 24px;
+  color: green;
+  padding-left: 20px;
+  padding-right: 20px; 
+
+}
+
+.adress {
+  line-height: 2.5;
+  margin-left: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 2;
+  width: 85%;
+}
+
+li {
+  font-style: italic;
+ }
+
+.avatar {
+  width: 20%;
+  border-radius: 50%;
+} 
+
+.title{
+  margin-top: -100px;
+  font-size: 32px;
+  font-family: 'Pattaya', sans-serif;
+  float: right;
+  width: 60%;
+  color: rgb(177, 88, 16); 
+}
+
+.subtitle {
+  margin-top: -50px;
+  
+  font-size: 16;
+  font-family: "Lemonada", "Arial", sans-serif;
+  float: right;
+  width: 50%;
+  color: grey; 
+}
+
+.skills {
+ 
+   color: green;
+}
+
+.sertificat_conteiner {
+  display: flex;
+  justify-content: space-around;
+}
+
+.stepic_sertificat {
+  width: 20%;
+  height: auto;
+  opacity: 1;
+  margin-right: 100px;
+  margin-bottom: 30px;
+}
+
+.stepic_sertificat:hover {
+ opacity: 0.5;
+}
